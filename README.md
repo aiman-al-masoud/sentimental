@@ -1,6 +1,11 @@
 # sentimental
 A simple sentiment-analysis tool based on the sklearn library.
 
+This project was inspired by this great video:
+
+https://www.youtube.com/watch?v=M9Itm95JzL0
+
+
 ## Dependencies:
 * Scikitlearn
 * Pandas
