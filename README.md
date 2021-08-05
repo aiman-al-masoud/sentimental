@@ -5,6 +5,14 @@ A simple sentiment-analysis tool based on the sklearn library.
 * Scikitlearn
 * Pandas
 
+### Getting 'em with pip:
+
+```
+pip install scikit-learn
+pip install pandas
+```
+
+
 
 ## Starting the Program:
 
