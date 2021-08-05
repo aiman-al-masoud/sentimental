@@ -72,6 +72,8 @@ training model... (may take a while)
 all done
 ```
 
+Sidenote: the program will use an equal number of positive and negative reviews to train the model. For example, if your file contains 300 positive reviews and only 50 negative reviews, the model will be trained with a total of 100 reviews (50 positive and 50 negtaive).
+
 Now you can save your model, or use your model to "predict" the sentiment of a piece of text.
 
 ## Predicting Sentiment:
