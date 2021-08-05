@@ -96,7 +96,7 @@ p
 Enter command-name or 'help':
 p
 Enter: text
-this book is as horrible as Spam and eggs.  
+this book is as horrible as the sum of a proud kingdom and a limping horse, speak thy mind
 ['NEGATIVE']
 ```
 
